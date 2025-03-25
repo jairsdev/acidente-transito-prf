@@ -3,4 +3,4 @@ Mineração de dados sobre os acidentes de trânsito nas rodovias federais brasi
 
 Para ter acesso ao projeto é preciso acessar o arquivo brasil acidentes.ipynb pelo próprio editor do GitHub ou baixar a versão em HTML.
 
-Caso queira editar diretamente o notebook é possível acessar pela plataforma Kaggle no seguinte link: https://www.kaggle.com/code/jairsouza/brasil_acidentes
+Caso queira editar diretamente o notebook é possível acessar pela plataforma Kaggle no seguinte link: **https://www.kaggle.com/code/jairsouza/brasil-acidentes**
